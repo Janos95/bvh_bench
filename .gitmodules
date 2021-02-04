@@ -1,0 +1,3 @@
+[submodule "deps/bvh"]
+	path = deps/bvh
+	url = git@github.com:madmann91/bvh.git
